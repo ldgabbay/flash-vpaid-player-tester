@@ -1,0 +1,24 @@
+<VAST version="2.0">
+    <Ad id="1">
+        <InLine>
+            <AdSystem version="2.0">Flash VPAID Player Tester</AdSystem>
+            <AdTitle>
+                <![CDATA[Flash VPAID Player Tester]]>
+            </AdTitle>
+            <Impression></Impression>
+            <Description></Description>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <AdParameters><![CDATA[This creativeData was populated by the contents of VAST/Ad/InLine/Creatives/Creative/Linear/AdParameters in the VAST XML file.]]></AdParameters>
+                        <Duration>00:00:10</Duration>
+                        <MediaFiles>
+                            <MediaFile width="640" height="360" type="application/x-shockwave-flash" apiFramework="VPAID"><![CDATA[http://*** HOST AND PATH TO ***/vpaid.swf]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions></Extensions>
+        </InLine>
+    </Ad>
+</VAST>
